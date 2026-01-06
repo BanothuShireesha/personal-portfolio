@@ -113,3 +113,20 @@ input, textarea {
     padding: 30px;
   }
 }
+
+.hero {
+  text-align: center;
+  padding: 80px 20px;
+}
+
+.profile-img {
+  width: 150px;
+  height: 150px;
+   object-fit: cover;
+   object-position: center;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 20px;
+  border: 4px solid #fff;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
